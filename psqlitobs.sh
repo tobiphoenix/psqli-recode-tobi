@@ -1060,14 +1060,14 @@ banner4() {
         "
 }
 banner2() {
-echo -e "                    \033[7;31m PSQL-I v.3 MOD ${N}${R} FINAL${N}${G}"
+echo -e "                    \033[7;31m PSQL-I v.1 ALPHA ${N}${R} RECODE BY TOBI${N}${G}"
 cat << "EOF"
                         /
        　　　/)        /  
      　　_(⌒)＿　　/)            Database hijacker tools
      　／ / ﾉ　 ヽ /ﾋE)          |==┣▇▇▇▇▇▇═─-SQl-i
      `/ｲ// /LLﾄLL|/ /            Agressiv1njector
-     ｜|/ /(6　6(/ /             ./Kedjaw3n
+     ｜|/ /(6　6(/ /             ./Kedjaw3n recode by Tobi
      ｜/_/ " ヮ"ﾉ_/
      /Y　ﾚ `ーイ /
      ﾚ|　ヽ-====-＼
@@ -1079,11 +1079,11 @@ EOF
 }
 banner3() {
   echo -e "    
-                        \033[7;36mPSQL-I v.3 PRO${N}
+                        \033[7;36mPSQL-I v.1 Alpha Recode By tobi${N}
                           /      ${N}\033[3;35msqli tools evolution${N}
          ░░░░░░░▄█▄▄▄█▄  /       ${N}|==┣▇▇▇▇▇▇═─-SQl-i${N}
          ▄▀░░░░▄▌─▄─▄─▐▄ ░░░▀▄   ${R}Agressiv${N}1njector${N}
-         █▄▄█░░▀▌─▀─▀─▐▀░░█▄▄█   ${O}./Kedjaw${O}3${O}n${N} 
+         █▄▄█░░▀▌─▀─▀─▐▀░░█▄▄█   ${O}./Kedjaw${O}3${O}n Recode By Tobi${N} 
          ░▐▌░░░░▀▀███▀▀░░░░▐▌
          ████░▄█████████▄░████
         "
@@ -3442,7 +3442,8 @@ fi
 if [[ "$debug" = "y" ]];then
    echo -e "${N}[${R}@${N}]. DEBUG MODE: ${R}ON${N}"
 fi
-echo -e "\033[1m$N[$R+$N] \e[38;5;81m${O}PSQLI MENU\e[0m
+clear
+echo -e "\033[1m$N[$R+$N] \e[38;5;81m${O}PSQLI MENU RECODE BY TOBI\e[0m
 [${O}1${N}]. singgle site injection
 [${O}2${N}]. Mass Xploit sql-injection
 [${O}3${N}]. aUTO DorKiNg + AutO Xploit
