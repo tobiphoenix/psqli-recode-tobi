@@ -13,8 +13,6 @@ if you just only have android or ios
 download termux and command 
 >  git clone https://github.com/tobiphoenix/psqli-recode-tobi.git
 
->  cd tobiphoenix
-
 >  cd psqli-recode-tobi
 
 >  chmod +x psqlibytobs.sh
